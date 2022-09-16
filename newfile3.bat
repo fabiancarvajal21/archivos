@@ -1,0 +1,1 @@
+xcopy "C:\Users\FABIAN CARVAJAL\Desktop\ARCHIVOS" "C:\Users\FABIAN CARVAJAL\Documents\backup\archivos\archivos_%date:~-4,4%-%date:~-7,2%-%date:~-10,2%"
